@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechWizardsSchool=self.webpackChunktechWizardsSchool||[]).push([[688],{6688:(u,s,t)=>{t.r(s),t.d(s,{BlogPostModule:()=>l});var a=t(6814),c=t(9468);let l=(()=>{class o{static#t=this.\u0275fac=function(n){return new(n||o)};static#o=this.\u0275mod=c.oAB({type:o});static#s=this.\u0275inj=c.cJS({imports:[a.ez]})}return o})()}}]);
