@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://techwizards.school.ge/sitemap.xml
